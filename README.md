@@ -23,8 +23,4 @@ Each directional key cycles through a list of sizes (e.g., 1/2, 1/3, 2/3 of scre
 ```lua
 hs.loadSpoon("WindowManager")
 spoon.WindowManager:bindHotkeys({})
-
-function reloadConfig(files)
-    hs.reload()
-end
 ```
