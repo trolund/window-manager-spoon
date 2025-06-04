@@ -2,7 +2,7 @@ local obj = {}
 obj.__index = obj
 obj.name = "WindowManager"
 obj.version = "0.2"
-obj.author = "Troels Lund <trolund@gmail.com> + ChatGPT"
+obj.author = "Troels Lund <trolund@gmail.com>"
 obj.license = "MIT"
 
 local Direction = {
